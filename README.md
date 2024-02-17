@@ -1,8 +1,8 @@
-## Hi, Xinyi's here 🥰
+## Hi, Xinyi's here 
 ### About Me
 
 
-<p>&emsp;&emsp; I am currently a U2 CS student at McGill University</p>
+
 <p>&emsp;&emsp; To be updated:)</p>
 
 
