@@ -5,9 +5,14 @@
   * Full-Stack Web Development
   * Distributed System
 
-Feel Free to Contact Me  
+Feel Free to Contact Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wangxinyi26/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wxinyi26@gmail.com)
+
+#### Some of my favorite courses at McGill:
+* Comp 202 (2022Winter) -- Python
+* Comp 310 (2023Fall) -- Operating System
+
 
 ## 👩🏻‍💻 Tech Stack
 
@@ -26,13 +31,14 @@ Feel Free to Contact Me
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### I'm recently learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+谢谢光临我的github主页!
+
+
 
 
   
