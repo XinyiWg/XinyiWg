@@ -1,37 +1,21 @@
 ## Hi, Xinyi's here 
-### About Me
+* McGill University *(Jan. 2022 - Present)*
+* Major in Computer Science
+* Interested in:
+  * Full-Stack Web Development
+  * Distributed System
+
+Feel Free to Contact Me  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wangxinyi26/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wxinyi26@gmail.com)
 
 
 
-<p>&emsp;&emsp; To be updated:)</p>
 
-
-</td></tr>
-
-<tr><td>
   
   
   
   
-  
-  <div>
-    <a href="https://www.linkedin.com/in/wangxinyi26/"><img src="https://img.shields.io/badge/Linkedin-blue" /></a>&emsp;
-  </div>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XinyiWg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**XinyiWg/XinyiWg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
