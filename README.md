@@ -3,15 +3,15 @@
 * Major in Computer Science
 * Interested in:
   * Full-Stack Web Development
- 
+  * Distributed System
 
 Feel Free to Contact Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wangxinyi26/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wxinyi26@gmail.com)
 
 #### Some of my favorite courses at McGill:
-* Comp 202 (2022Winter) -- Python
-* Comp 310 (2023Fall) -- Operating System
+* Comp 202 (2022 Winter) -- Python
+* Comp 310 (2023 Fall) -- Operating System
 
 
 ## 👩🏻‍💻 Tech Stack
