@@ -2,7 +2,7 @@
 * McGill University *(Jan. 2022 - Present)*
 * Major in Computer Science, Minor in Mathematics
 * Interested in:
-  * Full-Stack Web Development
+  * Full-Stack Development
   * Distributed System
  
 #### Internships:
